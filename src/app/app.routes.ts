@@ -5,7 +5,7 @@ export const routes: Routes = [
   {
     path: '', // Default route
     component: HomeComponent, // Load the HomeComponent
-    title: 'Lost & Found QR Stickers', // Page title
+    title: 'The Hey App', // Page title
   },
   {
     path: '**', // Wildcard route for 404 errors
